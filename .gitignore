@@ -1,0 +1,32 @@
+target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Sensitive
+src/main/resources/application.properties
+
+.env
+.env.local
+.env.test
+.env.dev
+.env.prod
+.env.example
