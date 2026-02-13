@@ -2,20 +2,20 @@
 
 # 🚀 User Document Storage Service
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=4A90E2&center=true&vCenter=true&width=600&lines=Cloud+Storage+Made+Simple;Secure+%7C+Fast+%7C+Scalable" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Cloud+Storage+Made+Simple;Secure+%7C+Fast+%7C+Scalable" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-3.2.2-brightgreen?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20S3-Cloud%20Storage-yellow?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-Build%20Tool-red?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-17-FF6B35?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-3.2.2-10B981?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20S3-Cloud%20Storage-F59E0B?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-Build%20Tool-E11D48?style=for-the-badge&logo=apachemaven&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" />
-  <img src="https://img.shields.io/badge/Version-1.0.0-success.svg?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tests-7%20Passing-brightgreen.svg?style=flat-square" />
-  <img src="https://img.shields.io/badge/Coverage-95%25-green.svg?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-3B82F6.svg?style=flat-square" />
+  <img src="https://img.shields.io/badge/Version-1.0.0-8B5CF6.svg?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tests-7%20Passing-10B981.svg?style=flat-square" />
+  <img src="https://img.shields.io/badge/Coverage-95%25-14B8A6.svg?style=flat-square" />
 </p>
 
 ---
@@ -82,11 +82,11 @@ graph TB
     C --> D[AWS S3 SDK v2]
     D --> E[(AWS S3 Bucket)]
     
-    style A fill:#e1f5ff,stroke:#01579b,stroke-width:2px
-    style B fill:#fff3e0,stroke:#e65100,stroke-width:2px
-    style C fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
-    style D fill:#e8f5e9,stroke:#1b5e20,stroke-width:2px
-    style E fill:#fce4ec,stroke:#880e4f,stroke-width:2px
+    style A fill:#DBEAFE,stroke:#2563EB,stroke-width:3px
+    style B fill:#FEF3C7,stroke:#F59E0B,stroke-width:3px
+    style C fill:#E9D5FF,stroke:#9333EA,stroke-width:3px
+    style D fill:#D1FAE5,stroke:#059669,stroke-width:3px
+    style E fill:#FCE7F3,stroke:#DB2777,stroke-width:3px
 ```
 
 </div>
@@ -566,13 +566,13 @@ Built with ❤️ using:
 
 ### 🌟 Star this repo if you find it helpful!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Happy+Coding!+%F0%9F%9A%80;Built+for+Developers+%F0%9F%92%99" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EC4899&center=true&vCenter=true&width=435&lines=Happy+Coding!+%F0%9F%9A%80;Built+for+Developers+%F0%9F%92%99" alt="Typing SVG" />
 
 ---
 
 **Made with 💙 by [Your Name]**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
 
 </div>
