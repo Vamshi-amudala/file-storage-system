@@ -73,23 +73,22 @@
 
 ## 🏗️ Architecture
 
-<div align="center">
-
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#DBEAFE','primaryTextColor':'#1E40AF','primaryBorderColor':'#2563EB','lineColor':'#6366F1','secondaryColor':'#FEF3C7','tertiaryColor':'#E9D5FF','fontSize':'16px'}}}%%
 graph TB
-    A[Client] -->|REST API| B[Spring Boot Controller]
-    B --> C[Service Layer]
-    C --> D[AWS S3 SDK v2]
-    D --> E[(AWS S3 Bucket)]
+    A["🖥️ Client"] -->|"REST API"| B["🎯 Spring Boot Controller"]
+    B --> C["⚙️ Service Layer"]
+    C --> D["☁️ AWS S3 SDK v2"]
+    D --> E[("🗄️ AWS S3 Bucket")]
     
-    style A fill:#DBEAFE,stroke:#2563EB,stroke-width:3px
-    style B fill:#FEF3C7,stroke:#F59E0B,stroke-width:3px
-    style C fill:#E9D5FF,stroke:#9333EA,stroke-width:3px
-    style D fill:#D1FAE5,stroke:#059669,stroke-width:3px
-    style E fill:#FCE7F3,stroke:#DB2777,stroke-width:3px
+    style A fill:#DBEAFE,stroke:#2563EB,stroke-width:3px,color:#1E3A8A
+    style B fill:#FEF3C7,stroke:#F59E0B,stroke-width:3px,color:#92400E
+    style C fill:#E9D5FF,stroke:#9333EA,stroke-width:3px,color:#581C87
+    style D fill:#D1FAE5,stroke:#059669,stroke-width:3px,color:#065F46
+    style E fill:#FCE7F3,stroke:#DB2777,stroke-width:3px,color:#831843
+    
+    classDef default font-weight:bold,font-size:14px
 ```
-
-</div>
 
 ### 🔄 Request Flow
 
