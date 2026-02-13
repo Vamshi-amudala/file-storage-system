@@ -21,8 +21,6 @@ Thumbs.db
 # Logs
 *.log
 
-# Sensitive
-src/main/resources/application.properties
 
 .env
 .env.local
